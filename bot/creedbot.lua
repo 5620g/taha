@@ -240,7 +240,7 @@ function create_config( )
     "filer",
     "leave_ban"
     },
-    sudo_users = {139534999},--Sudo users
+    sudo_users = {192195687},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -248,7 +248,7 @@ function create_config( )
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by :
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
    ߔࠀ   @rm13790115   〰〰〰〰〰〰〰〰
@@ -343,7 +343,7 @@ You Can user both "!" & "/" for them
 
 ]],
     help_text = [[
-Creed bots Help for mods : Plugins
+@AVENGERRS Help for mods : Plugins
 
 Banhammer : 
 
